@@ -1,0 +1,15 @@
+{
+  "name": "Dinosaur Universe List",
+  "timestamp": "2025-10-07T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xCCb7E532f1Bc7c5D4C47A0B3c39D2bBd2E8a563E",
+      "name": "Dinosaur Universe 3",
+      "symbol": "DU3",
+      "decimals": 18,
+      "logoURI": "https://files.greatlovedao.com/storage/v1/object/public/img/du3.PNG"
+    }
+  ]
+}
